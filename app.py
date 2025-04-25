@@ -47,7 +47,7 @@ def strmlt_app():
 
     # Right section - Main Chat Interface
     with right:
-        st.title("AI Researcher ☠️")
+        st.title("AI Researcher")
 
         chat_container = st.container()
 
