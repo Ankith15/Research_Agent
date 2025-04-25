@@ -38,8 +38,8 @@ def strmlt_app():
 
     # Left section - App Branding
     with left:
-        st.markdown("<p style='color: black;font-size: 30px;font-weight: bold;margin-bottom: 1px;'>AI Powered Research Agent</p>", unsafe_allow_html=True)
-        st.markdown("<p style='color: black;font-size: 20px;font-weight: bold;margin-bottom: 1px;'>We Help you to Create Research reports</p>", unsafe_allow_html=True)
+        st.markdown("<p style='color: white;font-size: 30px;font-weight: bold;margin-bottom: 1px;'>AI Powered Research Agent</p>", unsafe_allow_html=True)
+        st.markdown("<p style='color: white;font-size: 20px;font-weight: bold;margin-bottom: 1px;'>We Help you to Create Research reports</p>", unsafe_allow_html=True)
 
     # Space in middle for separation
     with space:
