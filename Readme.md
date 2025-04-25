@@ -3,6 +3,10 @@
 
 The **AI Research Agent** is a web-based tool designed to gather, analyze, and compile research information from various sources using AI and multiple tools. The agent uses **Langchain**, **Playwright**, **Gemini**, **Groq**, and **Agentic AI** to extract and process data. The tool allows users to query about specific topics, retrieve relevant content, and generate research reports. The project is hosted on AWS EC2.
 
+## Architecture
+![_- visual selection](https://github.com/user-attachments/assets/0ae5d9ee-7932-4669-b016-237c9754cc91)
+
+
 ## Available Tools:
 1. **serpapi_tool**  
    - Used for general web search results.  
@@ -40,6 +44,13 @@ The **AI Research Agent** is a web-based tool designed to gather, analyze, and c
 4. The report is generated with insights, key findings, and references.
 5. The app is hosted on AWS EC2 and can be accessed via this link:
    - [AI Research Agent - Live on AWS EC2](http://13.60.48.129:8501/)
+
+## Video Demo:
+
+
+https://github.com/user-attachments/assets/8d988187-e7c2-4e7a-9727-f24c1412d26d
+
+
 
 ## Steps to Run Locally:
 1. Clone the repository:
