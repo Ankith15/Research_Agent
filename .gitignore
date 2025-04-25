@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+reports
+agent.py
+info.json
+re.json
+serping.py
+ubunturesearch.pem
+ubupkey.ppk

@@ -1,0 +1,13 @@
+playwright
+beautifulsoup4
+serpapi
+python-dotenv
+langchain-core
+langchain
+langchain-community
+langchain-groq
+google-generativeai
+python-docx
+streamlit
+wikipedia
+requests
