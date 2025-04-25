@@ -45,6 +45,13 @@ The **AI Research Agent** is a web-based tool designed to gather, analyze, and c
 5. The app is hosted on AWS EC2 and can be accessed via this link:
    - [AI Research Agent - Live on AWS EC2](http://13.60.48.129:8501/)
 
+## Video Demo:
+
+
+https://github.com/user-attachments/assets/8d988187-e7c2-4e7a-9727-f24c1412d26d
+
+
+
 ## Steps to Run Locally:
 1. Clone the repository:
    ```bash
